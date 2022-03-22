@@ -6,6 +6,7 @@ dependencies:
   - tk
   - numpy
   - pillow
-  - torchvision
+  - pip:
+    - torchvision
   - pytorch
 
